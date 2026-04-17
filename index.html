@@ -1,0 +1,92 @@
+# Privacy Policy – Vedik Ghadi
+
+**Effective Date:** April 16, 2026
+
+Vedik Ghadi (“we,” “our,” or “us”) values your privacy and is committed to protecting your personal information. This Privacy Policy explains how we collect, use, store, and safeguard your information when you use the Vedik Ghadi application, website, or related services.
+
+## 1. Information We Collect
+
+We may collect the following types of information:
+
+### a) Personal Information
+
+* Name
+* Email address
+* Phone number
+* Billing or shipping address (if applicable)
+
+### b) Device & Technical Information
+
+* Device model
+* Operating system
+* IP address
+* App version
+* Browser type
+
+### c) Usage Information
+
+* Features used
+* App interactions
+* Preferences
+* Error logs and performance data
+
+## 2. How We Use Your Information
+
+We use collected information to:
+
+* Provide and improve our services
+* Process purchases or subscriptions
+* Respond to customer support requests
+* Send important updates or notifications
+* Personalize user experience
+* Maintain security and prevent misuse
+* Analyze app performance and usage trends
+
+## 3. Sharing of Information
+
+We do **not** sell your personal information. We may share data only with:
+
+* Trusted service providers helping operate our business
+* Payment processors for secure transactions
+* Legal authorities when required by law
+* Analytics providers for service improvement
+
+## 4. Data Security
+
+We implement reasonable technical and organizational measures to protect your information from unauthorized access, misuse, alteration, or loss. However, no digital platform can guarantee absolute security.
+
+## 5. Data Retention
+
+We retain your information only as long as necessary to provide services, comply with legal obligations, resolve disputes, and enforce agreements.
+
+## 6. Your Rights
+
+Depending on your region, you may have rights to:
+
+* Access your personal data
+* Correct inaccurate data
+* Request deletion of your data
+* Withdraw consent where applicable
+* Opt out of marketing communications
+
+To exercise these rights, contact us using the details below.
+
+## 7. Third-Party Services
+
+Vedik Ghadi may use third-party tools such as analytics, payment gateways, or hosting services. These services may have their own privacy policies.
+
+## 8. Children's Privacy
+
+Our services are not intended for children under the applicable legal age, and we do not knowingly collect personal data from children.
+
+## 9. Changes to This Policy
+
+We may update this Privacy Policy from time to time. Revised versions will be posted with an updated effective date.
+
+## 10. Contact Us
+
+If you have questions regarding this Privacy Policy, please contact us at:
+
+**Vedik Ghadi Support**
+Email: [support@vedikghadi.com](mailto:support@vedikghadi.com)
+Website: [www.vedikghadi.com](http://www.vedikghadi.com)
